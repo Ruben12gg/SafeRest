@@ -1,0 +1,6 @@
+global.DOMAIN = "https://saferest.herokuapp.com"
+global.TOKEN = ""
+global.IDRESTAURANT = ""
+global.IDUSER = ""
+global.RESLAT = ""
+global.RESLNG = ""
