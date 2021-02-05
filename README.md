@@ -14,4 +14,4 @@ Features:
 - Comment on restaurant pages;
 - Check your profile and see your comments;
 
-> The restaurant capacity counting is made with use of a motion sensor, that communicates the data to the App's database API, which was also built by us.
+> The restaurant capacity counting is made with use of a motion sensor, that communicates the data to the App's database API, which was also built by us. You can acces that repository here: https://github.com/Ruben12gg/API-SafeRest
